@@ -43,3 +43,4 @@ Or host `client/dist` alone as a static site (it uses the bundled data, no serve
 Edit `server/data/portfolio.json` and run `npm run seed`, or send the full JSON with
 `PUT /api/portfolio` and header `x-admin-key: <ADMIN_KEY>`.
 Put your CV at `client/public/Sumama_Ghouri_CV.pdf` for the Download CV button.
+# fixed-port
